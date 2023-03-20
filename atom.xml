@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-20T12:06:15.064Z</updated>
+  <updated>2023-03-20T12:09:17.399Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://example.com/2023/03/17/2023_03_17/"/>
     <id>http://example.com/2023/03/17/2023_03_17/</id>
     <published>2023-03-17T13:41:16.000Z</published>
-    <updated>2023-03-20T12:06:15.064Z</updated>
+    <updated>2023-03-20T12:09:17.399Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="../img/wallhaven-jxep8y_1024x768.png" alt="p"></p><p>今天是2023年3月17日，一个普普通通的星期五的晚上。</p><p>在写毕业论文的时候，一边写论文，一边搜路由器刷机的帖子。<br>在CSDN上看到一篇写的很不错的帖子，遂追根溯源到这个个人<a href="https://ifmet.cn/about/">博客</a>。</p><p>一开始看到这个hexo界面就有点眼熟，然后仔细看博客的页面布局大量的二次元风格，由此引发了我的好奇心，遂慢慢看起了博客中的帖子，首先大概浏览了一下，发现博主的技术方向居然和我很相似，最后看到这篇文章<a href="https://ifmet.cn/posts/f5f1bb34/">上班两年干了些啥？该思考人生</a>，备受鼓舞，遂作此文。</p><p>有时候命运就是如此的神奇，博主的初次公司居然是deepin，本科写的毕业论文正好是小型操作系统，曾经也一度想过去deepin上班。在博主的文章中感受到了一些写博客的意义，刚入大学学习ACM算法的时候在CSDN上写过一些算法，后来不打比赛之后就很少动笔了。很多时候想写一点东西又迟迟无法下笔，心里总是觉得如果写出来的东西不成系统，不够优雅就不想继续写了，博主的这篇文章让我感受颇深，也让我萌发写东西的冲动。希望之后有时间就经常在上面写点东西，技术博客也好，人生感受也好。或许有一天，也会有人看到这些文章，能给别人带来一丝感动便足以。</p><p>2023年3月17日晚22：09，写于智能信息处理实验室</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="../img/wallhaven-jxep8y_1024x768.png"></p><p>今天是2023年3月17日，一个普普通通的星期五的晚上。</p><p>在写毕业论文的时候，一边写论文，一边搜路由器刷机的帖子。<br>在CSDN上看到一篇写的很不错的帖子，遂追根溯源到这个个人<a href="https://ifmet.cn/about/">博客</a>。</p><p>一开始看到这个hexo界面就有点眼熟，然后仔细看博客的页面布局大量的二次元风格，由此引发了我的好奇心，遂慢慢看起了博客中的帖子，首先大概浏览了一下，发现博主的技术方向居然和我很相似，最后看到这篇文章<a href="https://ifmet.cn/posts/f5f1bb34/">上班两年干了些啥？该思考人生</a>，备受鼓舞，遂作此文。</p><p>有时候命运就是如此的神奇，博主的初次公司居然是deepin，本科写的毕业论文正好是小型操作系统，曾经也一度想过去deepin上班。在博主的文章中感受到了一些写博客的意义，刚入大学学习ACM算法的时候在CSDN上写过一些算法，后来不打比赛之后就很少动笔了。很多时候想写一点东西又迟迟无法下笔，心里总是觉得如果写出来的东西不成系统，不够优雅就不想继续写了，博主的这篇文章让我感受颇深，也让我萌发写东西的冲动。希望之后有时间就经常在上面写点东西，技术博客也好，人生感受也好。或许有一天，也会有人看到这些文章，能给别人带来一丝感动便足以。</p><p>2023年3月17日晚22：09，写于智能信息处理实验室</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;../img/wallhaven-jxep8y_1024x768.png&quot; alt=&quot;p&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;../img/wallhaven-jxep8y_1024x768.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;今天是2023年3月17日，一个普普通通的星期五的晚上。&lt;/p&gt;
-&lt;p&gt;在写毕业论文的时候，一边写论文，一边搜路由器刷机的帖子。&lt;br&gt;在CSDN</summary>
+&lt;p&gt;在写毕业论文的时候，一边写论文，一边搜路由器刷机的帖子。&lt;br&gt;在CSDN上看到一篇写的很</summary>
       
     
     
@@ -47,14 +47,15 @@
     <link href="http://example.com/2022/01/09/hello-world/"/>
     <id>http://example.com/2022/01/09/hello-world/</id>
     <published>2022-01-08T16:00:00.000Z</published>
-    <updated>2023-03-20T09:17:06.993Z</updated>
+    <updated>2023-03-20T12:09:40.215Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">hexo new "My New Post"</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="../img/wallhaven-72pqze.jpg"></p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">hexo new "My New Post"</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;../img/wallhaven-72pqze.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a hre</summary>
       
     
     
