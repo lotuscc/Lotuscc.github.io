@@ -29,33 +29,6 @@
     
     
     <entry>
-      <title>我的博客</title>
-      <link href="/2022/01/09/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2022/01/09/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-      
-        <content type="html"><![CDATA[<p>记录第一次通过hexo编写博客。</p><p>Rust 插件安装</p><p>安装Rust时不需要安装：</p><blockquote><p>rls-x86_64-unknown-linux-gnu<br>rust-analysis-x86_64-unknown-linux-gnu</p></blockquote><p>会与vscode安装的插件产生冲突。</p><p>vscode安装插件：</p><blockquote><p>rust-analyzer<br>CodeLLDB</p></blockquote><p>Github 地址</p><blockquote><p>https://<your_token>@github.com/<username>/<repo>.git</repo></username></your_token></p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> Testing </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Testing </tag>
-            
-            <tag> Another Tag </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2022/01/09/hello-world/"/>
       <url>/2022/01/09/hello-world/</url>
@@ -65,16 +38,14 @@
       
       <categories>
           
-          <category> Testing </category>
+          <category> hexo </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Testing </tag>
-            
-            <tag> Another Tag </tag>
+            <tag> hello </tag>
             
         </tags>
       
